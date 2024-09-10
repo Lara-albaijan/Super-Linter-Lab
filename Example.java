@@ -1,7 +1,7 @@
 public class Example {
     public static void main(String[] args) {
         int unusedVariable = 0; // Unused variable
-        System.out.println("Hello World!".  ;
+        System.out.println("Hello World!  ;
         if (true) {
             // Empty block
         }
