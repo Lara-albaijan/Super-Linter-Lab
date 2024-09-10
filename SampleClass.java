@@ -7,7 +7,7 @@ public class SampleClass {
    public void doStuff(){
        int x = 10; // Unused variable
        for(int i=0;i<MAGIC_NUMBER;i++){
-           System.out.println("Iteration: " + i). ;
+           System.out.println("Iteration: " + i;
        }
 
        String s = "hello"; String s2 = "world";  // Multiple statements on one line
